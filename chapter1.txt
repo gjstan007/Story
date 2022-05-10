@@ -1,1 +1,2 @@
 It is the best time ever.
+This is test for merges.
